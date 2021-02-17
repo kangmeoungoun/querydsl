@@ -15,7 +15,7 @@ import javax.persistence.PersistenceContext;
 import static org.assertj.core.api.Assertions.*;
 
 @SpringBootTest
-
+@Transactional
 class QuerydslApplicationTests {
 
 	@Autowired
