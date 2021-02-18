@@ -1,6 +1,5 @@
 #### 기본 문법
-##### 검색 조건 쿼리
+##### 결과 조회
 
-![image](https://user-images.githubusercontent.com/40969203/108358132-b1fc5480-7231-11eb-8fe6-2f5dac3fa6eb.png)
-![image](https://user-images.githubusercontent.com/40969203/108358146-b58fdb80-7231-11eb-94d8-3b1179d3f17d.png)
-![image](https://user-images.githubusercontent.com/40969203/108358148-b7f23580-7231-11eb-9546-e71039be7662.png)
+![image](https://user-images.githubusercontent.com/40969203/108359496-6a76c800-7233-11eb-8e5e-48dfe14df105.png)
+![image](https://user-images.githubusercontent.com/40969203/108359509-6d71b880-7233-11eb-900f-ca59e36c8ff1.png)
