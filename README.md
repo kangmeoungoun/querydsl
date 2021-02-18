@@ -1,13 +1,6 @@
 #### 기본 문법
-##### 기본 Q-Type 활용
+##### 검색 조건 쿼리
 
-```java
-queryDsl -> jpql -> sql
- public static final QMember member = new QMember("member1");
- jpql Alias "member1" 으로 사용됨
-같은 테이블조인시 에는 alias 다르게 설정해줘야함
-```
-
-![image](https://user-images.githubusercontent.com/40969203/108355600-62685980-722e-11eb-85b6-26b111301510.png)
-![image](https://user-images.githubusercontent.com/40969203/108355615-66947700-722e-11eb-8525-43fd9c1f18b5.png)
-
+![image](https://user-images.githubusercontent.com/40969203/108358132-b1fc5480-7231-11eb-8fe6-2f5dac3fa6eb.png)
+![image](https://user-images.githubusercontent.com/40969203/108358146-b58fdb80-7231-11eb-94d8-3b1179d3f17d.png)
+![image](https://user-images.githubusercontent.com/40969203/108358148-b7f23580-7231-11eb-9546-e71039be7662.png)
