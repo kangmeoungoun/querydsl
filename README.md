@@ -1,13 +1,11 @@
-#### 예제 도메인 모델
-##### 예제 도메인 모델과 동작확인
+#### 기본 문법
+##### 시작 - JPQL Vs Querydsl
 
-![image](https://user-images.githubusercontent.com/40969203/108210885-6c775300-716f-11eb-9ebe-87498dbe4e20.png)
-![image](https://user-images.githubusercontent.com/40969203/108210900-700ada00-716f-11eb-9fb9-73bb183365fd.png)
-![image](https://user-images.githubusercontent.com/40969203/108210909-726d3400-716f-11eb-824c-5886b8150244.png)
-![image](https://user-images.githubusercontent.com/40969203/108210922-76995180-716f-11eb-89ed-c25dc13b474f.png)
-![image](https://user-images.githubusercontent.com/40969203/108210935-78fbab80-716f-11eb-8ae6-2d0b9945be57.png)
-![image](https://user-images.githubusercontent.com/40969203/108210966-82851380-716f-11eb-9614-1c5ced9132ff.png)
-![image](https://user-images.githubusercontent.com/40969203/108210974-844ed700-716f-11eb-93fb-67864ef4018f.png)
-![image](https://user-images.githubusercontent.com/40969203/108210991-89138b00-716f-11eb-9690-443c39484672.png)
-![image](https://user-images.githubusercontent.com/40969203/108210997-8c0e7b80-716f-11eb-8e42-4a5d8bb20453.png)
-![image](https://user-images.githubusercontent.com/40969203/108211011-903a9900-716f-11eb-9c26-406f0621d701.png)
+![image](https://user-images.githubusercontent.com/40969203/108353984-27fdbd00-722c-11eb-89ed-a1c022c0009c.png)
+![image](https://user-images.githubusercontent.com/40969203/108353996-2cc27100-722c-11eb-8642-35ea380a9008.png)
+![image](https://user-images.githubusercontent.com/40969203/108354007-3055f800-722c-11eb-8295-630001e0f41d.png)
+![image](https://user-images.githubusercontent.com/40969203/108354022-351aac00-722c-11eb-9a95-65346fea4de4.png)
+![image](https://user-images.githubusercontent.com/40969203/108354029-377d0600-722c-11eb-8eca-cdd479d3e42f.png)
+![image](https://user-images.githubusercontent.com/40969203/108354036-3c41ba00-722c-11eb-8afc-5d9300e703f3.png)
+![image](https://user-images.githubusercontent.com/40969203/108354041-3f3caa80-722c-11eb-9d65-16b784954405.png)
+![image](https://user-images.githubusercontent.com/40969203/108354055-42d03180-722c-11eb-979b-a1bed17748ad.png)
